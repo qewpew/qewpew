@@ -8,7 +8,7 @@
 <a href="https://t.me/playermike"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@playermike-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://github.com/qewpew?tab=repositories"><img alt="Репозитории" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
-[English](README.md) · **Русский**
+[English](https://github.com/qewpew/qewpew/blob/main/README.md) · **Русский**
 
 </div>
 
@@ -22,7 +22,7 @@
 
 - Занимаюсь предсказательным моделированием медицинских исходов в исследовательской группе
 - Умею довести задачу от сырых данных до модели и оформленного результата
-- Цель на ближайший год — летняя стажировка в инженерии / ML
+- Читаю статьи и воспроизвожу результаты — так изучаю область
 
 ---
 
@@ -84,21 +84,12 @@
 
 ---
 
-### Статистика
+### Сейчас
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=qewpew&show_icons=true&hide_border=true&locale=ru&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF">
-  <img alt="Статистика GitHub" src="https://github-readme-stats.vercel.app/api?username=qewpew&show_icons=true&hide_border=true&locale=ru&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=qewpew&layout=compact&hide_border=true&locale=ru&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9">
-  <img alt="Используемые языки" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qewpew&layout=compact&hide_border=true&locale=ru&bg_color=00000000&title_color=0969DA&text_color=24292F">
-</picture>
-
-</div>
+- 📈 Углубляю теорию вероятностей и статистический вывод за пределами программы курса
+- 🧪 Развиваю модель прогрессирования после «Гамма-ножа» — отбор признаков и калибровка
+- 🏗 Довожу пет-проекты до конца (`thorn-agency`), чтобы набить руку на «боевом» коде
+- 🎯 Готовлюсь к летней стажировке: алгоритмы, основы System Design, Python
 
 ---
 

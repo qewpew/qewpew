@@ -8,7 +8,7 @@ Applied machine learning · statistics · data analysis
 <a href="https://t.me/playermike"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@playermike-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://github.com/qewpew?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
-**English** · [Русский](README.ru.md)
+**English** · [Русский](https://github.com/qewpew/qewpew/blob/main/README.ru.md)
 
 </div>
 
@@ -22,7 +22,7 @@ to real problems rather than to exercises alone.
 
 - Working on predictive modelling of medical outcomes in a research group
 - Comfortable moving from a raw dataset to a model to a written-up result
-- Currently aiming at a summer engineering / ML internship
+- Reading papers and reproducing results as a way of learning the field
 
 ---
 
@@ -84,21 +84,12 @@ prompt engineering · software development fundamentals
 
 ---
 
-### Stats
+### Currently
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=qewpew&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF">
-  <img alt="qewpew's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=qewpew&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F&icon_color=0969DA">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=qewpew&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qewpew&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=24292F">
-</picture>
-
-</div>
+- 📈 Deepening probability theory and statistical inference beyond the course syllabus
+- 🧪 Extending the Gamma Knife progression model — feature selection and calibration
+- 🏗 Building side projects end to end (`thorn-agency`) to learn production-shaped code
+- 🎯 Preparing for a summer internship: algorithms, system design fundamentals, Python
 
 ---
 
