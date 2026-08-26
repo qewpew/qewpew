@@ -1,9 +1,9 @@
 <div align="center">
 
-# `qewpew`
-
-**Студент направления «Математика и компьютерные науки»**<br>
-Прикладной ML · статистика · анализ данных
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qewpew/qewpew/main/assets/header-dark.svg">
+  <img alt="qewpew — Mathematics and Computer Science, applied ML and statistics" src="https://raw.githubusercontent.com/qewpew/qewpew/main/assets/header-light.svg" width="880">
+</picture>
 
 <a href="https://t.me/playermike"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@playermike-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://github.com/qewpew?tab=repositories"><img alt="Репозитории" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -49,6 +49,10 @@
 > Применял статистические методы и машинное обучение к клиническим данным,
 > соавтор научной статьи с описанием методологии и результатов.
 
+<div align="center">
+  <img alt="Gradient descent converging on the minimum of a loss curve" src="https://raw.githubusercontent.com/qewpew/qewpew/main/assets/gradient-descent.svg" width="880">
+</div>
+
 ---
 
 ### Стек
@@ -62,6 +66,12 @@
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
 </p>
 <p>
+<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
+<p>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
@@ -70,17 +80,7 @@
 </p>
 
 **Ещё:** статистический анализ и теория вероятностей · алгоритмическое мышление ·
-промпт-инжиниринг · основы промышленной разработки
-
----
-
-### Избранные проекты
-
-| Проект | Что это | |
-| :--- | :--- | :--- |
-| **[vvpbot](https://github.com/qewpew/vvpbot)** | Телеграм-бот, который собирает и анализирует ВВП стран мира | `публичный` |
-| **thorn-agency** | Мультитенантная платформа: сайты из шаблонов и единая панель для продавцов | `приватный` |
-| **My-CRM-system** | CRM с нуля — чтобы разобрать проектирование приложения целиком | `приватный` |
+проектирование API · промпт-инжиниринг · основы промышленной разработки
 
 ---
 
@@ -88,7 +88,7 @@
 
 - 📈 Углубляю теорию вероятностей и статистический вывод за пределами программы курса
 - 🧪 Развиваю модель прогрессирования после «Гамма-ножа» — отбор признаков и калибровка
-- 🏗 Довожу пет-проекты до конца (`thorn-agency`), чтобы набить руку на «боевом» коде
+- 🏗 Довожу пет-проекты до конца — сервисы на FastAPI, Postgres, Docker
 - 🎯 Готовлюсь к летней стажировке: алгоритмы, основы System Design, Python
 
 ---
