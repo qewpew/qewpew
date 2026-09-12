@@ -20,7 +20,6 @@ Second-year Mathematics and Computer Science student building a foundation in
 mathematical analysis, linear algebra and statistical modelling — and applying it
 to real problems rather than to exercises alone.
 
-- Working on predictive modelling of medical outcomes in a research group
 - Comfortable moving from a raw dataset to a model to a written-up result
 - Reading papers and reproducing results as a way of learning the field
 
@@ -77,7 +76,6 @@ to real problems rather than to exercises alone.
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
 <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white">
-<img alt="Claude" src="https://img.shields.io/badge/AI--assisted%20dev-D97757?style=flat-square&logo=claude&logoColor=white">
 </p>
 
 **Also:** statistical analysis and probability theory · algorithmic thinking ·
