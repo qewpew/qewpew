@@ -20,7 +20,6 @@
 моделирование — и попытка применять это к реальным задачам, а не только к
 учебным примерам.
 
-- Занимаюсь предсказательным моделированием медицинских исходов в исследовательской группе
 - Умею довести задачу от сырых данных до модели и оформленного результата
 - Читаю статьи и воспроизвожу результаты — так изучаю область
 
@@ -77,7 +76,6 @@
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
 <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white">
-<img alt="Claude" src="https://img.shields.io/badge/AI--assisted%20dev-D97757?style=flat-square&logo=claude&logoColor=white">
 </p>
 
 **Ещё:** статистический анализ и теория вероятностей · алгоритмическое мышление ·
