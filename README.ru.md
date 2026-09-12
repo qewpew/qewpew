@@ -16,7 +16,7 @@
 
 ### О себе
 
-Первокурсник МКН: математический анализ, линейная алгебра и статистическое
+Второкурсник МКН: математический анализ, линейная алгебра и статистическое
 моделирование — и попытка применять это к реальным задачам, а не только к
 учебным примерам.
 
@@ -31,13 +31,6 @@
 **Центральный университет** — *бакалавриат, математика и компьютерные науки*
 `сент. 2025 — 2029 (ожидаемо)`
 
-| Математика | Computer Science и данные |
-| :--- | :--- |
-| Математический анализ I, II | Введение в статистику |
-| Линейная алгебра I, II | Введение в ИИ |
-| Дискретная математика | Основы промышленной разработки |
-| | Введение в финансы |
-
 ---
 
 ### Исследования
@@ -49,9 +42,19 @@
 > Применял статистические методы и машинное обучение к клиническим данным,
 > соавтор научной статьи с описанием методологии и результатов.
 
+[Репозиторий](https://github.com/qewpew/gamma-knife-progression-ml)
+
 <div align="center">
   <img alt="Gradient descent converging on the minimum of a loss curve" src="https://raw.githubusercontent.com/qewpew/qewpew/main/assets/gradient-descent.svg" width="880">
 </div>
+
+---
+
+### Проекты
+
+- **[Скоринг отклика + калибровка вероятностей](https://github.com/qewpew/response-scoring-calibration)** — калиброванный скоринг отклика на обзвон: CatBoost, изотоническая калибровка, бизнес-порог. Задеплоен как FastAPI + Docker сервис. [Демо](https://response-scoring.lalaev.site) · ROC-AUC 0.81, lift@10% 4.8.
+- **[OCR рукописного текста](https://github.com/qewpew/handwritten-ocr-pipeline)** — полный image → text пайплайн без готовых движков: OpenCV, сегментация строк и символов, своя CNN на EMNIST; метрики CER/WER.
+- **[NLP: завершённость реплики](https://github.com/qewpew/nlp-turn-taking-prediction)** — соревнование: закончена ли реплика в диалоге; эмбеддинги ruDialoGPT + ансамбль бустингов, честная 5-fold CV, F0.5 ≈ 0.72.
 
 ---
 
@@ -67,8 +70,6 @@
 </p>
 <p>
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-<img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </p>
 <p>
@@ -80,15 +81,15 @@
 </p>
 
 **Ещё:** статистический анализ и теория вероятностей · алгоритмическое мышление ·
-проектирование API · промпт-инжиниринг · основы промышленной разработки
+проектирование API · промпт-инжиниринг · основы промышленной разработки · SQL / PostgreSQL / Redis (basics)
 
 ---
 
 ### Сейчас
 
 - 📈 Углубляю теорию вероятностей и статистический вывод за пределами программы курса
-- 🧪 Развиваю модель прогрессирования после «Гамма-ножа» — отбор признаков и калибровка
-- 🏗 Довожу пет-проекты до конца — сервисы на FastAPI, Postgres, Docker
+- 🧪 Довожу пет-проекты до ума — честная валидация, калибровка, оформление
+- 🏗 Строю сервисы end-to-end — FastAPI, Docker, деплой
 - 🎯 Готовлюсь к летней стажировке: алгоритмы, основы System Design, Python
 
 ---
