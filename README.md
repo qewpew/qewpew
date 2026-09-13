@@ -88,7 +88,7 @@ API design · prompt engineering · software development fundamentals · SQL / P
 - 📈 Deepening probability theory and statistical inference beyond the course syllabus
 - 🧪 Polishing my ML projects — honest validation, calibration, clear write-ups
 - 🏗 Building side projects end to end — FastAPI services, Docker, deployment
-- 🎯 Preparing for a summer internship: algorithms, system design fundamentals, Python
+- 🎯 Preparing for a summer internship: algorithms, system design fundamentals, ml, Python
 
 ---
 
